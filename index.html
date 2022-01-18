@@ -142,9 +142,9 @@ title: Store
 {%- if traitsForDisplay.size > 0 -%}
     {%- assign headers = site.data.language.name_header | split: ',' -%}
 
-   <! {%- if site.store.traits.description or site.store.traits.conflicts or site.store.traits.stats or site.store.traits.limit -%}
+   {%- if site.store.traits.description or site.store.traits.conflicts or site.store.traits.stats or site.store.traits.limit -%}
         {%- assign headers = headers | push: site.data.language.description_header -%}
-    {%- endif -%} >
+    {%- endif -%} 
 
     {%- assign headers = headers | push: site.data.language.add_cost_header -%}
     {%- assign headers = headers | push: site.data.language.remove_cost_header -%}
