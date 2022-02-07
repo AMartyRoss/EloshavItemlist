@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 5000,
+		"price": 8000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 15000,
+		"price": 42600,
 		"karmatype": "Bad"
 	},
 	{
@@ -22,7 +22,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 1650,
+		"price": 650,
 		"karmatype": "Neutral"
 	},
 	{
@@ -57,7 +57,7 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 1750,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -67,7 +67,7 @@
 	},
 	{
 		"abr": "coldsnap",
-		"price": 1000,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,12 +82,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 8000,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 5000,
+		"price": 3200,
 		"karmatype": "Doom"
 	},
 	{
@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 2000,
+		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
@@ -127,7 +127,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 500,
+		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
@@ -142,7 +142,7 @@
 	},
 	{
 		"abr": "psychicsoothe",
-		"price": 550,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
@@ -197,7 +197,7 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 1000,
+		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
@@ -207,12 +207,12 @@
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 3200,
+		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "militaryaid",
-		"price": 1500,
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
@@ -227,7 +227,7 @@
 	},
 	{
 		"abr": "sapperraid",
-		"price": 2500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -262,7 +262,7 @@
 	},
 	{
 		"abr": "disease",
-		"price": 5000,
+		"price": 10000,
 		"karmatype": "Bad"
 	},
 	{
@@ -292,7 +292,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 1,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
@@ -362,7 +362,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 300,
+		"price": 800,
 		"karmatype": "Neutral"
 	},
 	{
@@ -412,12 +412,12 @@
 	},
 	{
 		"abr": "randomchildhood",
-		"price": 1000,
+		"price": 3000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomadulthood",
-		"price": 1000,
+		"price": 3000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -432,7 +432,7 @@
 	},
 	{
 		"abr": "alphaasteroid",
-		"price": 1500,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -492,12 +492,12 @@
 	},
 	{
 		"abr": "raidmechanoidsappers",
-		"price": 3500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "fungalhuskwandersin",
-		"price": 2000,
+		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
@@ -542,12 +542,12 @@
 	},
 	{
 		"abr": "psychicbloom",
-		"price": 12000,
+		"price": 10000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hailstorm",
-		"price": 2000,
+		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
@@ -562,7 +562,7 @@
 	},
 	{
 		"abr": "spacebattle",
-		"price": 750,
+		"price": 1500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -592,7 +592,7 @@
 	},
 	{
 		"abr": "drought",
-		"price": 5000,
+		"price": 10000,
 		"karmatype": "Bad"
 	},
 	{
