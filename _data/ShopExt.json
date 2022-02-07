@@ -1,7 +1,7 @@
 {
   "traits": [
     {
-      "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
+      "description": "Vercik enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
       "stats": [
 
       ],
@@ -31,7 +31,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others.",
+      "description": "Vercik gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -61,7 +61,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions.",
+      "description": "Vercik is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions.",
       "stats": [
         "x200% global certainty loss factor"
       ],
@@ -93,7 +93,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
+      "description": "Vercik has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
       "stats": [
         "Morbid meditation focus type allowed.",
         "x50% global certainty loss factor"
@@ -125,7 +125,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy was taught that eating human meat is wrong and horrible. But one time, long ago, he tried it... and he liked it.",
+      "description": "Vercik was taught that eating human meat is wrong and horrible. But one time, long ago, he tried it... and he liked it.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -155,7 +155,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
+      "description": "Vercik always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
       "stats": [
         "x50% global certainty loss factor"
       ],
@@ -185,7 +185,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric.",
+      "description": "Vercik is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric.",
       "stats": [
         "+75% global learning factor",
         "+12% mental break threshold",
@@ -227,7 +227,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon.",
+      "description": "Vercik likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon.",
       "stats": [
         "Shoot frenzy inspiration disabled.",
         "+4 melee",
@@ -267,7 +267,7 @@
       "degree": 0
     },
     {
-      "description": "For Timmy, there's something exciting about getting hurt. he doesn't know why, he's just wired differently.",
+      "description": "For Vercik, there's something exciting about getting hurt. he doesn't know why, he's just wired differently.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -297,7 +297,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark.",
+      "description": "Vercik likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark.",
       "stats": [
 
       ],
@@ -327,7 +327,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants.",
+      "description": "Vercik needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants.",
       "stats": [
 
       ],
@@ -359,7 +359,7 @@
       "degree": 0
     },
     {
-      "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom.",
+      "description": "For Vercik, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -391,7 +391,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
+      "description": "Vercik has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
       "stats": [
         "Artistic meditation focus type disabled.",
         "Minimal meditation focus type allowed.",
@@ -429,7 +429,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is romantically attracted to people of his own gender.",
+      "description": "Vercik is romantically attracted to people of his own gender.",
       "stats": [
 
       ],
@@ -459,7 +459,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is romantically attracted to both men and women.",
+      "description": "Vercik is romantically attracted to both men and women.",
       "stats": [
 
       ],
@@ -489,7 +489,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has no sexual attraction to anyone at all.",
+      "description": "Vercik has no sexual attraction to anyone at all.",
       "stats": [
 
       ],
@@ -519,7 +519,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
+      "description": "Vercik's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
       "stats": [
 
       ],
@@ -549,7 +549,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy breathes heavily all the time, and sweats constantly. People find it creepy.",
+      "description": "Vercik breathes heavily all the time, and sweats constantly. People find it creepy.",
       "stats": [
 
       ],
@@ -579,7 +579,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low.",
+      "description": "Vercik loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low.",
       "stats": [
         "Flame meditation focus type allowed.",
         "Only mental break \"FireStartingSpree\" allowed."
@@ -611,7 +611,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is weak and cowardly. Even a little pain will immobilize him.",
+      "description": "Vercik is weak and cowardly. Even a little pain will immobilize him.",
       "stats": [
         "-60% pain shock threshold",
         "x200% global certainty loss factor"
@@ -645,7 +645,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
+      "description": "Vercik has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
       "stats": [
         "+15.0 melee dodge chance",
         "x10% trap spring chance"
@@ -677,7 +677,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a knack for learning. he picks things up much faster than others.",
+      "description": "Vercik has a knack for learning. he picks things up much faster than others.",
       "stats": [
         "+75% global learning factor"
       ],
@@ -707,7 +707,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is slow on the uptake. he learns much slower than others.",
+      "description": "Vercik is slow on the uptake. he learns much slower than others.",
       "stats": [
         "-75% global learning factor",
         "x50% global certainty loss factor"
@@ -739,7 +739,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
+      "description": "Vercik has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -769,7 +769,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts.",
+      "description": "Vercik feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts.",
       "stats": [
 
       ],
@@ -799,7 +799,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
+      "description": "Vercik believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
       "stats": [
 
       ],
@@ -829,7 +829,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy really dislikes and distrusts men.",
+      "description": "Vercik really dislikes and distrusts men.",
       "stats": [
 
       ],
@@ -859,7 +859,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy really dislikes and distrusts women.",
+      "description": "Vercik really dislikes and distrusts women.",
       "stats": [
 
       ],
@@ -889,7 +889,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
+      "description": "Vercik has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
       "stats": [
 
       ],
@@ -919,7 +919,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has thick skin, dense flesh, and durable bones. he takes much less damage than other people from the same blows. he is extremely hard to kill.",
+      "description": "Vercik has thick skin, dense flesh, and durable bones. he takes much less damage than other people from the same blows. he is extremely hard to kill.",
       "stats": [
         "x50% incoming damage multiplier"
       ],
@@ -949,7 +949,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy feels alienated and misunderstood by other human beings. he will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
+      "description": "Vercik feels alienated and misunderstood by other human beings. he will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -979,7 +979,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy's life revolves around food. he gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
+      "description": "Vercik's life revolves around food. he gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
       "stats": [
         "Only mental break \"Binging_Food\" allowed.",
         "+4 cooking"
@@ -1011,7 +1011,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy doesn't need as much sleep as the average person. Whether he's sleeping on a bed or on the ground, he will be fully rested in about two thirds the usual time.",
+      "description": "Vercik doesn't need as much sleep as the average person. Whether he's sleeping on a bed or on the ground, he will be fully rested in about two thirds the usual time.",
       "stats": [
         "+50% rest rate multiplier"
       ],
@@ -1041,7 +1041,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is always falling behind the group whenever he goes anywhere.",
+      "description": "Vercik is always falling behind the group whenever he goes anywhere.",
       "stats": [
         "Go frenzy inspiration disabled.",
         "-0.20 move speed"
@@ -1073,7 +1073,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy likes to be where he's going. he walks quicker than most people.",
+      "description": "Vercik likes to be where he's going. he walks quicker than most people.",
       "stats": [
         "+0.20 move speed"
       ],
@@ -1103,7 +1103,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy always moves with a sense of urgency - so much so that others often fail to keep up.",
+      "description": "Vercik always moves with a sense of urgency - so much so that others often fail to keep up.",
       "stats": [
         "+0.40 move speed"
       ],
@@ -1133,7 +1133,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
+      "description": "Vercik is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [
 
       ],
@@ -1163,7 +1163,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
+      "description": "Vercik has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [
 
       ],
@@ -1193,7 +1193,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy abhors the idea of gaining pleasure from chemicals. he strictly avoids alcohol and recreational drugs.",
+      "description": "Vercik abhors the idea of gaining pleasure from chemicals. he strictly avoids alcohol and recreational drugs.",
       "stats": [
         "Binging on drug mental state disabled.",
         "Binging on drug mental state disabled."
@@ -1225,7 +1225,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy is just naturally upbeat about his situation, pretty much all the time, no matter what it is.",
+      "description": "Vercik is just naturally upbeat about his situation, pretty much all the time, no matter what it is.",
       "stats": [
 
       ],
@@ -1255,7 +1255,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is naturally optimistic about life. It's hard to get him down.",
+      "description": "Vercik is naturally optimistic about life. It's hard to get him down.",
       "stats": [
 
       ],
@@ -1285,7 +1285,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy tends to look on the bad side of life.",
+      "description": "Vercik tends to look on the bad side of life.",
       "stats": [
 
       ],
@@ -1315,7 +1315,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
+      "description": "Vercik is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
       "stats": [
 
       ],
@@ -1345,7 +1345,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy's will is an iron shield. he keeps going through thick and thin, when others broke down long before.",
+      "description": "Vercik's will is an iron shield. he keeps going through thick and thin, when others broke down long before.",
       "stats": [
         "-18% mental break threshold",
         "x25% global certainty loss factor"
@@ -1377,7 +1377,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is mentally tough and won't break down under stresses that would crack most people.",
+      "description": "Vercik is mentally tough and won't break down under stresses that would crack most people.",
       "stats": [
         "-9% mental break threshold",
         "x50% global certainty loss factor"
@@ -1409,7 +1409,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy tends to crack under pressure.",
+      "description": "Vercik tends to crack under pressure.",
       "stats": [
         "+8% mental break threshold",
         "x200% global certainty loss factor"
@@ -1441,7 +1441,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy is on a hair-trigger all the time. he is the first to break in any tough situation.",
+      "description": "Vercik is on a hair-trigger all the time. he is the first to break in any tough situation.",
       "stats": [
         "+15% mental break threshold",
         "x300% global certainty loss factor"
@@ -1473,7 +1473,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy likes to have things squared away. he will work harder than most to attain this state of affairs, but his nerves can get the better of him.",
+      "description": "Vercik likes to have things squared away. he will work harder than most to attain this state of affairs, but his nerves can get the better of him.",
       "stats": [
         "+20% global work speed",
         "+8% mental break threshold"
@@ -1505,7 +1505,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy feels constantly nervous about everything that has to get done. he will work extremely hard to attain this state of affairs, but his nerves can easily get the better of him.",
+      "description": "Vercik feels constantly nervous about everything that has to get done. he will work extremely hard to attain this state of affairs, but his nerves can easily get the better of him.",
       "stats": [
         "+40% global work speed",
         "+14% mental break threshold"
@@ -1537,7 +1537,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy has an easy time staying on-task and focused, and gets things done much faster than the average person.",
+      "description": "Vercik has an easy time staying on-task and focused, and gets things done much faster than the average person.",
       "stats": [
         "+35% global work speed"
       ],
@@ -1567,7 +1567,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is a natural hard worker and will finish tasks faster than most.",
+      "description": "Vercik is a natural hard worker and will finish tasks faster than most.",
       "stats": [
         "+20% global work speed"
       ],
@@ -1597,7 +1597,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy is a little bit lazy.",
+      "description": "Vercik is a little bit lazy.",
       "stats": [
         "-20% global work speed"
       ],
@@ -1627,7 +1627,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy loves idleness and hates anything productive. he moves slowly and rarely stays focused on a task.",
+      "description": "Vercik loves idleness and hates anything productive. he moves slowly and rarely stays focused on a task.",
       "stats": [
         "-35% global work speed"
       ],
@@ -1657,7 +1657,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy's mind is like a psychic tuning fork. he is extremely sensitive to psychic phenomena.",
+      "description": "Vercik's mind is like a psychic tuning fork. he is extremely sensitive to psychic phenomena.",
       "stats": [
         "+80% psychic sensitivity"
       ],
@@ -1687,7 +1687,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy's mind is unusually sensitive to psychic phenomena.",
+      "description": "Vercik's mind is unusually sensitive to psychic phenomena.",
       "stats": [
         "+40% psychic sensitivity"
       ],
@@ -1717,7 +1717,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy's mind is psychically out of tune with others. he isn't as affected by psychic phenomena.",
+      "description": "Vercik's mind is psychically out of tune with others. he isn't as affected by psychic phenomena.",
       "stats": [
         "-50% psychic sensitivity"
       ],
@@ -1747,7 +1747,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy's mind works on a psychic frequency different from everyone else. he just isn't affected by psychic phenomena.",
+      "description": "Vercik's mind works on a psychic frequency different from everyone else. he just isn't affected by psychic phenomena.",
       "stats": [
         "-100% psychic sensitivity"
       ],
@@ -1777,7 +1777,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
+      "description": "Vercik takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
       "stats": [
         "+25% aiming time",
         "+5.0 shooting accuracy"
@@ -1809,7 +1809,7 @@
       "degree": 1
     },
     {
-      "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. he shoots faster than others, but less accurately.",
+      "description": "Pew! Pew! Pew! Vercik just likes pulling the trigger. he shoots faster than others, but less accurately.",
       "stats": [
         "-50% aiming time",
         "-5.0 shooting accuracy"
@@ -1841,7 +1841,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to him before he even opens his mouth.",
+      "description": "Vercik is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to him before he even opens his mouth.",
       "stats": [
         "+2.0 beauty"
       ],
@@ -1871,7 +1871,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy has a pretty face, which predisposes people to like him.",
+      "description": "Vercik has a pretty face, which predisposes people to like him.",
       "stats": [
         "+1.0 beauty"
       ],
@@ -1901,7 +1901,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy is somewhat ugly. This subtly repels others during social interactions.",
+      "description": "Vercik is somewhat ugly. This subtly repels others during social interactions.",
       "stats": [
         "-1.0 beauty"
       ],
@@ -1931,7 +1931,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy is staggeringly ugly. his face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at him while conversing.",
+      "description": "Vercik is staggeringly ugly. his face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at him while conversing.",
       "stats": [
         "-2.0 beauty"
       ],
@@ -1961,7 +1961,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy has a naturally powerful immune system. he will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
+      "description": "Vercik has a naturally powerful immune system. he will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
       "stats": [
         "+30% immunity gain speed"
       ],
@@ -1991,7 +1991,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy has an awful immune system. he gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
+      "description": "Vercik has an awful immune system. he gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
       "stats": [
         "+4 medical"
       ],
@@ -2021,7 +2021,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
+      "description": "Vercik tends to occasionally allow their mind to drift, even in the middle of working.",
       "stats": [
 
       ],
@@ -2059,7 +2059,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.",
+      "description": "Vercik has a loose screw or two, a small trade off for being naturally scientifically inclined.",
       "stats": [
         "x115% research speed"
       ],
@@ -2089,7 +2089,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
+      "description": "Vercik strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
       "stats": [
         "x65% global work speed"
       ],
@@ -2119,7 +2119,7 @@
       "degree": 0
     },
     {
-      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
+      "description": "While fully capable of warfare in theory, Vercik's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
       "stats": [
 
       ],
@@ -2153,7 +2153,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
+      "description": "Vercik has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
       "stats": [
         "-20% mental break threshold",
         "+20% pain shock threshold"
@@ -2187,7 +2187,7 @@
       "degree": 0
     },
     {
-      "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
+      "description": "Minor bruises and scrapes plague Vercik all too often, mostly due to uncoordinated tripping or falling.",
       "stats": [
 
       ],
@@ -2217,7 +2217,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
+      "description": "Vercik loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
       "stats": [
         "+10.0C Maximum comfortable temperature"
       ],
@@ -2247,7 +2247,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
+      "description": "Vercik loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
       "stats": [
         "-10.0C Minimum comfortable temperature"
       ],
@@ -2277,7 +2277,7 @@
       "degree": 0
     },
     {
-      "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
+      "description": "A bomb could go off next to Vercik while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
       "stats": [
 
       ],
@@ -2307,7 +2307,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
+      "description": "Vercik is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
       "stats": [
 
       ],
@@ -2337,7 +2337,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
+      "description": "Vercik is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
       "stats": [
 
       ],
@@ -2367,7 +2367,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
+      "description": "Vercik has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
       "stats": [
 
       ],
@@ -2405,7 +2405,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
+      "description": "Vercik has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
       "stats": [
 
       ],
@@ -2435,7 +2435,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
+      "description": "Vercik can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
       "stats": [
 
       ],
@@ -2465,7 +2465,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
+      "description": "Vercik believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
       "stats": [
 
       ],
@@ -2497,7 +2497,7 @@
       "degree": 0
     },
     {
-      "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
+      "description": "Whether because they're a bit chunky or because they shift their weight oddly, Vercik has broken a few chairs in their time and is likely to break more.",
       "stats": [
 
       ],
@@ -2527,7 +2527,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
+      "description": "Vercik only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
       "stats": [
 
       ],
@@ -2557,7 +2557,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
+      "description": "Vercik needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
       "stats": [
 
       ],
@@ -2587,7 +2587,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
+      "description": "Vercik is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
       "stats": [
 
       ],
@@ -2617,7 +2617,7 @@
       "degree": 0
     },
     {
-      "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
+      "description": "Whether by past trauma or fear of change, Vercik rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
       "stats": [
         "Only mental break \"VTE_TechnophobeTantrum\" allowed."
       ],
@@ -2647,7 +2647,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
+      "description": "Vercik always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
       "stats": [
 
       ],
@@ -2677,7 +2677,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
+      "description": "Vercik has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
       "stats": [
         "-50% global learning factor",
         "-50.00% social impact"
@@ -2715,7 +2715,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
+      "description": "Vercik learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
       "stats": [
 
       ],
@@ -2745,7 +2745,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
+      "description": "Vercik believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
       "stats": [
 
       ],
@@ -2775,7 +2775,7 @@
       "degree": 0
     },
     {
-      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
+      "description": "Sour stomach plagues Vercik any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
       "stats": [
 
       ],
@@ -2807,7 +2807,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
+      "description": "Vercik feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
       "stats": [
         "Only mental break \"VTE_PanicFreezing\" allowed."
       ],
@@ -2837,7 +2837,7 @@
       "degree": 0
     },
     {
-      "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
+      "description": "No amount of lovin' is enough lovin' for Vercik. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
       "stats": [
 
       ],
@@ -2871,7 +2871,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
+      "description": "Vercik refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
       "stats": [
 
       ],
@@ -2903,7 +2903,7 @@
       "degree": 0
     },
     {
-      "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
+      "description": "An armchair and flatscreen is all Vercik needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
       "stats": [
 
       ],
@@ -2933,7 +2933,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
+      "description": "Vercik is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
       "stats": [
 
       ],
@@ -2963,7 +2963,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
+      "description": "Vercik is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
       "stats": [
 
       ],
@@ -2993,7 +2993,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
+      "description": "Vercik is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
       "stats": [
         "+20% mental break threshold",
         "x130% research speed"
@@ -3025,7 +3025,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
+      "description": "Vercik believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
       "stats": [
         "x120% tame animal chance",
         "x120% train animal chance"
@@ -3057,7 +3057,7 @@
       "degree": 0
     },
     {
-      "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
+      "description": "The sea calls to Vercik. he feels happier just being near the ocean or a deep river.",
       "stats": [
 
       ],
@@ -3087,7 +3087,7 @@
       "degree": 0
     },
     {
-      "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
+      "description": "The mountains call to Vercik. he feels happier just being near a large mountain.",
       "stats": [
 
       ],
@@ -3117,7 +3117,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
+      "description": "Vercik has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
       "stats": [
         "+20% surgery success chance factor"
       ],
@@ -3147,7 +3147,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
+      "description": "Vercik is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
       "stats": [
         "+4 melee"
       ],
@@ -3177,7 +3177,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
+      "description": "Vercik is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -3207,7 +3207,7 @@
       "degree": 0
     },
     {
-      "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
+      "description": "Smokeleaf culture is just part of life for Vercik. he absolutely adores smokeleaf and would rather die before giving it up.",
       "stats": [
 
       ],
@@ -3243,7 +3243,7 @@
       "degree": 0
     },
     {
-      "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.",
+      "description": "Alcohol culture is just part of life for Vercik. he absolutely adores booze and would rather die before giving it up.",
       "stats": [
 
       ],
@@ -3279,7 +3279,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
+      "description": "Vercik loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
       "stats": [
         "+0.2 foraged food amount"
       ],
@@ -3309,7 +3309,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
+      "description": "Vercik is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
       "stats": [
         "x50% global work speed",
         "x70% move speed"
@@ -3341,7 +3341,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
+      "description": "Vercik has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
       "stats": [
 
       ],
@@ -3371,7 +3371,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
+      "description": "Vercik is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
       "stats": [
 
       ],
@@ -3401,7 +3401,7 @@
       "degree": 0
     },
     {
-      "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
+      "description": "Only the finest of culinary creations may grace the lips of Vercik. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
       "stats": [
         "x70% eating speed"
       ],
@@ -3431,7 +3431,7 @@
       "degree": 0
     },
     {
-      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.",
+      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Vercik is surprisingly well read on a variety of topics, particularly science and medical practice.",
       "stats": [
         "+4 intellectual",
         "+4 medical",
@@ -3465,7 +3465,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.",
+      "description": "Vercik strongly believes infrastucture rules all and is a natural born stoneworker.",
       "stats": [
         "+4 mining",
         "+4 construction",
@@ -3501,7 +3501,7 @@
       "degree": 0
     },
     {
-      "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
+      "description": "In the eyes of Vercik food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
       "stats": [
         "+4 cooking",
         "+4 artistic",
@@ -3535,7 +3535,7 @@
       "degree": 0
     },
     {
-      "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
+      "description": "Flora and fauna are both vital to Vercik. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
       "stats": [
         "+4 animals",
         "+4 plants",
@@ -3571,7 +3571,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
+      "description": "Vercik has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
       "stats": [
         "+4 social",
         "+4 crafting",
@@ -3605,7 +3605,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.",
+      "description": "Vercik is strangely hypercoagulating and will bleed much more slowly than most.",
       "stats": [
 
       ],
@@ -3635,7 +3635,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others.",
+      "description": "Vercik is strangely hemophilic and tends to bleed much more profusely than others.",
       "stats": [
 
       ],
@@ -3665,7 +3665,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
+      "description": "Vercik has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
       "stats": [
 
       ],
@@ -3701,7 +3701,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is abnormally receptive to the ebb and flow of mana, he will gain mana 40% faster than normal but his maximum mana capacity is reduced by 20.",
+      "description": "Vercik is abnormally receptive to the ebb and flow of mana, he will gain mana 40% faster than normal but his maximum mana capacity is reduced by 20.",
       "stats": [
 
       ],
@@ -3733,7 +3733,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has an increased resistance to the ebb and flow of mana which allows him to hold an additional 40 mana, but reduces his mana regeneration by 20%.",
+      "description": "Vercik has an increased resistance to the ebb and flow of mana which allows him to hold an additional 40 mana, but reduces his mana regeneration by 20%.",
       "stats": [
 
       ],
@@ -3765,7 +3765,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy excels at combat arts and is able to execute combat maneuvers 40% more frequently, however, his talent has fostered an arrogant attitude that reduces his experience gain by 25% and causes other fighters to dislike him.",
+      "description": "Vercik excels at combat arts and is able to execute combat maneuvers 40% more frequently, however, his talent has fostered an arrogant attitude that reduces his experience gain by 25% and causes other fighters to dislike him.",
       "stats": [
 
       ],
@@ -3797,7 +3797,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has accepted that death is another part of life and doesn't get upset when learning about a dead ally or seeing one of the undead.",
+      "description": "Vercik has accepted that death is another part of life and doesn't get upset when learning about a dead ally or seeing one of the undead.",
       "stats": [
 
       ],
@@ -3827,7 +3827,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has been reanimated as an undead.",
+      "description": "Vercik has been reanimated as an undead.",
       "stats": [
         "-2.00 move speed",
         "-66.0C Minimum comfortable temperature",
@@ -3965,7 +3965,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a magical gift. he can harness this gift to become a mage by studying the mysterious secrets within an arcane script.",
+      "description": "Vercik has a magical gift. he can harness this gift to become a mage by studying the mysterious secrets within an arcane script.",
       "stats": [
         "+0.10 move speed",
         "+10% medical tend speed",
@@ -4101,7 +4101,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is an empath, able to feel and manipulate the emotions of those around him. his's abilities are tied to magic, but have affected him on a more innate level. However, with training, Timmy can still become an adept magic user. For better or worse, empath's have a very strong presence and can easily read the presence of others; the effectiveness of their abilities are closely tied to their aptitude for overcoming another's defenses.",
+      "description": "Vercik is an empath, able to feel and manipulate the emotions of those around him. his's abilities are tied to magic, but have affected him on a more innate level. However, with training, Vercik can still become an adept magic user. For better or worse, empath's have a very strong presence and can easily read the presence of others; the effectiveness of their abilities are closely tied to their aptitude for overcoming another's defenses.",
       "stats": [
         "+100% psychic sensitivity",
         "+10% mental break threshold",
@@ -4735,7 +4735,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a wanderer; an outcast, half-breed mage class frequently dubbed a hedge-mage. his carefree personality has kept his from developing class abilities. Instead, he has learned to improve on a vast number of utility abilities that allow him to adapt to any situation.\n\t\t\nWanderers prefer the open road and gain a mood boost for being in a caravan. Caravans with a wanderer will ignore the movement penalties of any world tile. However, their wanderlust will cause them to suffer a mood penalty for remaining at a colony for too long.",
+      "description": "Vercik is a wanderer; an outcast, half-breed mage class frequently dubbed a hedge-mage. his carefree personality has kept his from developing class abilities. Instead, he has learned to improve on a vast number of utility abilities that allow him to adapt to any situation.\n\t\t\nWanderers prefer the open road and gain a mood boost for being in a caravan. Caravans with a wanderer will ignore the movement penalties of any world tile. However, their wanderlust will cause them to suffer a mood penalty for remaining at a colony for too long.",
       "stats": [
         "+0.20 move speed",
         "-10% global work speed",
@@ -5001,7 +5001,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is attuned with the elements of fire.",
+      "description": "Vercik is attuned with the elements of fire.",
       "stats": [
         "+0.20 move speed",
         "+10% global work speed",
@@ -5269,7 +5269,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is attuned with the elements of water.",
+      "description": "Vercik is attuned with the elements of water.",
       "stats": [
         "-10% mental break threshold",
         "+20% research speed",
@@ -5535,7 +5535,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is attuned with the elements of lightning.",
+      "description": "Vercik is attuned with the elements of lightning.",
       "stats": [
         "+0.20 move speed",
         "+10% global work speed",
@@ -5797,7 +5797,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is attuned with arcane forces, interacting directly with raw arcane power to move matter and energy at will.",
+      "description": "Vercik is attuned with arcane forces, interacting directly with raw arcane power to move matter and energy at will.",
       "stats": [
         "+10% research speed",
         "+20% global learning factor",
@@ -6067,7 +6067,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is attuned with the forces of nature.",
+      "description": "Vercik is attuned with the forces of nature.",
       "stats": [
         "+15% immunity gain speed",
         "-20% toxic sensitivity",
@@ -6335,7 +6335,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has been bestowed with divine might and has sworn to uphold justice wherever he stands.",
+      "description": "Vercik has been bestowed with divine might and has sworn to uphold justice wherever he stands.",
       "stats": [
         "+0.10 move speed",
         "+20% immunity gain speed",
@@ -6599,7 +6599,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is able to summon beings and materialize objects from other planes of existence.",
+      "description": "Vercik is able to summon beings and materialize objects from other planes of existence.",
       "stats": [
         "+0.10 move speed",
         "+10% toxic sensitivity",
@@ -6861,7 +6861,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is attuned with the forces of death.",
+      "description": "Vercik is attuned with the forces of death.",
       "stats": [
         "-0.30 move speed",
         "-20.0C Minimum comfortable temperature",
@@ -7129,7 +7129,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has transformed into a lich, forsaking life in exchange for an power and an immortal existence. he disdains menial taks, choosing to employ undead for trivial matters.",
+      "description": "Vercik has transformed into a lich, forsaking life in exchange for an power and an immortal existence. he disdains menial taks, choosing to employ undead for trivial matters.",
       "stats": [
         "Confused wandering mental state disabled.",
         "Panic fleeing mental state disabled.",
@@ -7421,7 +7421,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is attuned with the forces of life and healing and has taken a vow against harming others.",
+      "description": "Vercik is attuned with the forces of life and healing and has taken a vow against harming others.",
       "stats": [
         "+2 medical",
         "+0.15 move speed",
@@ -7693,7 +7693,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a natural entertainer, able to lighten the mood and lift the spirits of everyone around him.",
+      "description": "Vercik is a natural entertainer, able to lighten the mood and lift the spirits of everyone around him.",
       "stats": [
         "+10.00% social impact",
         "+20.00% negotiation ability",
@@ -7951,7 +7951,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a performer; expanding on natural talent, he has begun to take an conscious role to improve the mood of other colonists.",
+      "description": "Vercik is a performer; expanding on natural talent, he has begun to take an conscious role to improve the mood of other colonists.",
       "stats": [
         "+20.00% social impact",
         "+30.00% negotiation ability",
@@ -8209,7 +8209,7 @@
       "degree": 1
     },
     {
-      "description": "Everyone loves being around Timmy. he has talent, wit and skill in many forms of entertainment and is able to make a personal connection with almost everyone.",
+      "description": "Everyone loves being around Vercik. he has talent, wit and skill in many forms of entertainment and is able to make a personal connection with almost everyone.",
       "stats": [
         "+30.00% social impact",
         "+35.00% negotiation ability",
@@ -8467,7 +8467,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is a master entertainer. Sharp wit, deft hands, and dry humor are his weapons, and he is a master of all his weapons.",
+      "description": "Vercik is a master entertainer. Sharp wit, deft hands, and dry humor are his weapons, and he is a master of all his weapons.",
       "stats": [
         "+35.00% social impact",
         "+40.00% negotiation ability",
@@ -8725,7 +8725,7 @@
       "degree": 3
     },
     {
-      "description": "Timmy has a strange genetic strain that grants her enhanced physical attributes. She is also extremely attractive with an exotic facial structure that captures the eye. A succubus is more likely to exploit her physical advantages and have others do her work for her. his succubus charm has its disadvantages and can cause some to become jealous and even despise him.",
+      "description": "Vercik has a strange genetic strain that grants her enhanced physical attributes. She is also extremely attractive with an exotic facial structure that captures the eye. A succubus is more likely to exploit her physical advantages and have others do her work for her. his succubus charm has its disadvantages and can cause some to become jealous and even despise him.",
       "stats": [
         "+0.20 move speed",
         "-20% global work speed",
@@ -9003,7 +9003,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a Warlock - able to manifest physical and demonic forces using his unique access to arcane power. The warlock shares the same genetic mixture as a succubus, but as a male, he is affected with mental enhancements that include clairvoyance and telekineses. The warlock can occasionally affect the outcome of a social interaction using their mental capabilities, regardless of how the interaction actually occurred.",
+      "description": "Vercik is a Warlock - able to manifest physical and demonic forces using his unique access to arcane power. The warlock shares the same genetic mixture as a succubus, but as a male, he is affected with mental enhancements that include clairvoyance and telekineses. The warlock can occasionally affect the outcome of a social interaction using their mental capabilities, regardless of how the interaction actually occurred.",
       "stats": [
         "-0.10 move speed",
         "-20% global work speed",
@@ -9281,7 +9281,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is attuned with the earth and natural order, drawing power from the physical realm and intertwining it with arcane energy. he is capable of reinforcing physical elements, and bending them, as he needs.",
+      "description": "Vercik is attuned with the earth and natural order, drawing power from the physical realm and intertwining it with arcane energy. he is capable of reinforcing physical elements, and bending them, as he needs.",
       "stats": [
         "-0.10 move speed",
         "-30% toxic sensitivity",
@@ -9555,7 +9555,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has learned to see magic and science as two parts of the same force and is able to use arcane power to interface directly with components of technology. he is capable of manipulating objects with advanced mechanics, electronics, or computing it to achieve his goals, but has difficulty interacting with biological systems.",
+      "description": "Vercik has learned to see magic and science as two parts of the same force and is able to use arcane power to interface directly with components of technology. he is capable of manipulating objects with advanced mechanics, electronics, or computing it to achieve his goals, but has difficulty interacting with biological systems.",
       "stats": [
         "-30.00% social impact",
         "-20.00% negotiation ability",
@@ -9833,7 +9833,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a blood mage and has consigned to the dark art of manipulating the life blood of living things as a means of increasing his power.\n\nAs a blood mage, Timmy has learned to control the life force within and command it to his will. his connection to life makes it easier to associate with other living things, but doesn't appreciate effort without immediate results.",
+      "description": "Vercik is a blood mage and has consigned to the dark art of manipulating the life blood of living things as a means of increasing his power.\n\nAs a blood mage, Vercik has learned to control the life force within and command it to his will. his connection to life makes it easier to associate with other living things, but doesn't appreciate effort without immediate results.",
       "stats": [
         "+20.00% social impact",
         "+15.00% negotiation ability",
@@ -10101,7 +10101,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is an enchanter, attuned to the composition of matter and materials. he can manipulate matter to his will, frequently in unnatural ways, and his powers of transmutation can be permanent when sufficient effort is applied.",
+      "description": "Vercik is an enchanter, attuned to the composition of matter and materials. he can manipulate matter to his will, frequently in unnatural ways, and his powers of transmutation can be permanent when sufficient effort is applied.",
       "stats": [
         "-15.00% tame animal chance",
         "-15.00% train animal chance",
@@ -10371,7 +10371,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a chronomancer. Through arcane sight, he is able to view reality as it once was and as it could be, and can manipulate objects between those realities.",
+      "description": "Vercik is a chronomancer. Through arcane sight, he is able to view reality as it once was and as it could be, and can manipulate objects between those realities.",
       "stats": [
         "+25% global learning factor",
         "+40% research speed",
@@ -10633,7 +10633,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has rejected all predefined magic paths and refuses to attribute objective reality in his search for power; there are no truths, all magic is permitted. This tradition has enabled Timmy to learn any type of magic, although he will never master any.",
+      "description": "Vercik has rejected all predefined magic paths and refuses to attribute objective reality in his search for power; there are no truths, all magic is permitted. This tradition has enabled Vercik to learn any type of magic, although he will never master any.",
       "stats": [
         "+25% global learning factor",
         "-20% research speed",
@@ -10895,7 +10895,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a half-breed demon with an affinity for shadow magic. he has developed his unique talents through combat training and physical conditioning making him the perfect assassin.",
+      "description": "Vercik is a half-breed demon with an affinity for shadow magic. he has developed his unique talents through combat training and physical conditioning making him the perfect assassin.",
       "stats": [
         "+25% psychic sensitivity",
         "+20% pain shock threshold",
@@ -11535,7 +11535,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a brightmage, able to harness the powers of light to purge evil. he approaches any task with an unrivaled fervor that usually places him at the forefront. Being a Brightmage introduces a dependency on the sun and light, because of this, Timmy has developed an intense hatred for shadowy and dark caricatures.",
+      "description": "Vercik is a brightmage, able to harness the powers of light to purge evil. he approaches any task with an unrivaled fervor that usually places him at the forefront. Being a Brightmage introduces a dependency on the sun and light, because of this, Vercik has developed an intense hatred for shadowy and dark caricatures.",
       "stats": [
         "+15% psychic sensitivity",
         "+0.20 move speed",
@@ -12173,7 +12173,7 @@
       "degree": 0
     },
     {
-      "description": "Shamans take a more harmonious approach to arcane powers than most mages, choosing to pursue a path that works with the ebb and flow of magic to offset or enhance the natural order. Timmy is kin to the spirit realm and more attuned to nature and its elements.",
+      "description": "Shamans take a more harmonious approach to arcane powers than most mages, choosing to pursue a path that works with the ebb and flow of magic to offset or enhance the natural order. Vercik is kin to the spirit realm and more attuned to nature and its elements.",
       "stats": [
         "+20% psychic sensitivity",
         "+30% toxic sensitivity",
@@ -12809,7 +12809,7 @@
       "degree": 0
     },
     {
-      "description": "Golemancers prefer to weave their magic through powerful runes and sigils that are able to transfer purpose into an object. Timmy is no exception; he can create runes that enhance basic mechanics, alter chemicals in biological matter, and animate mundae material into life-like, monstrous creatures. Golemancer's are most effective when channeling their magic through symbols and find it more difficult to convert mana to energy directly but are also have higher arcane resistances. Most golemancer's tend to find rocks more interesting than people and have little concern for cleanliness.",
+      "description": "Golemancers prefer to weave their magic through powerful runes and sigils that are able to transfer purpose into an object. Vercik is no exception; he can create runes that enhance basic mechanics, alter chemicals in biological matter, and animate mundae material into life-like, monstrous creatures. Golemancer's are most effective when channeling their magic through symbols and find it more difficult to convert mana to energy directly but are also have higher arcane resistances. Most golemancer's tend to find rocks more interesting than people and have little concern for cleanliness.",
       "stats": [
         "+0.5 filth rate",
         "-20.00% social impact",
@@ -13441,7 +13441,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is physically adept and has potential to learn special combat forms.",
+      "description": "Vercik is physically adept and has potential to learn special combat forms.",
       "stats": [
         "+0.20 move speed",
         "+20% global work speed",
@@ -13577,7 +13577,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a wayfarer; an self-disciplined fighter that excels at tricks and dirty fighting. his carefree personality has kept him from developing class abilities. Instead, he has learned to improve a vast number of utility abilities that allow him to adapt to any situation.\n\nWayfarers prefer the open road and will gain a mood boost for being in a caravan, and any caravan with a wayfarer will travel 25% faster. However, wayfarers will suffer a mood penalty if they remain at colony for too long.",
+      "description": "Vercik is a wayfarer; an self-disciplined fighter that excels at tricks and dirty fighting. his carefree personality has kept him from developing class abilities. Instead, he has learned to improve a vast number of utility abilities that allow him to adapt to any situation.\n\nWayfarers prefer the open road and will gain a mood boost for being in a caravan, and any caravan with a wayfarer will travel 25% faster. However, wayfarers will suffer a mood penalty if they remain at colony for too long.",
       "stats": [
         "+0.20 move speed",
         "-10% global work speed",
@@ -13843,7 +13843,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is an apothecary, trained in the preparation of medicines, balms, tinctures and drugs. his profession exhibits strict discipline and dedication, and he has learned to apply his discipline to more generic, physical skills. With training, he can become capable in many combat techniques to augment his skill in herbs.",
+      "description": "Vercik is an apothecary, trained in the preparation of medicines, balms, tinctures and drugs. his profession exhibits strict discipline and dedication, and he has learned to apply his discipline to more generic, physical skills. With training, he can become capable in many combat techniques to augment his skill in herbs.",
       "stats": [
         "+20% plant work speed",
         "-2.50% food poison chance",
@@ -14483,7 +14483,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has learned how to train the Gladiator combat style.",
+      "description": "Vercik has learned how to train the Gladiator combat style.",
       "stats": [
         "+0.20 move speed",
         "+20% global work speed",
@@ -14761,7 +14761,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a trained woodsman; preferring the silence and lethality of a bow and armed with field-craft and cunning, he is prepared to defend his land from invaders.",
+      "description": "Vercik is a trained woodsman; preferring the silence and lethality of a bow and armed with field-craft and cunning, he is prepared to defend his land from invaders.",
       "stats": [
         "+0.15 move speed",
         "+20% immunity gain speed",
@@ -15029,7 +15029,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a hunter; he employs field-craft, cunning, and skill with a bow to defend his land from invaders.",
+      "description": "Vercik is a hunter; he employs field-craft, cunning, and skill with a bow to defend his land from invaders.",
       "stats": [
         "+0.20 move speed",
         "+25% immunity gain speed",
@@ -15297,7 +15297,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy is a scout; comfortable in the wilds, and relied upon to be the eyes and ears of a colony. he employs expertise in field-craft, cunning, and the bow to defend his land from invaders.",
+      "description": "Vercik is a scout; comfortable in the wilds, and relied upon to be the eyes and ears of a colony. he employs expertise in field-craft, cunning, and the bow to defend his land from invaders.",
       "stats": [
         "+0.25 move speed",
         "+30% immunity gain speed",
@@ -15565,7 +15565,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is a ranger; master of the wilds.  he is a master of his craft and defender of his land.",
+      "description": "Vercik is a ranger; master of the wilds.  he is a master of his craft and defender of his land.",
       "stats": [
         "+0.30 move speed",
         "+35% immunity gain speed",
@@ -15833,7 +15833,7 @@
       "degree": 3
     },
     {
-      "description": "Timmy has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Training to become a sniper has caused some colonists to be uncomfortable around him, not that he cares.",
+      "description": "Vercik has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Training to become a sniper has caused some colonists to be uncomfortable around him, not that he cares.",
       "stats": [
         "+0.10 move speed",
         "-10% aiming time",
@@ -16093,7 +16093,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Becoming a sniper has caused him to become distanced from other colonists and somewhat unapproachable, not that he cares.",
+      "description": "Vercik has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Becoming a sniper has caused him to become distanced from other colonists and somewhat unapproachable, not that he cares.",
       "stats": [
         "+0.15 move speed",
         "-15% aiming time",
@@ -16353,7 +16353,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy is a master sniper, skilled in the economy and accuracy of long range, small arms combat. Being a sniper has made him avoid other colonists, not that they care.",
+      "description": "Vercik is a master sniper, skilled in the economy and accuracy of long range, small arms combat. Being a sniper has made him avoid other colonists, not that they care.",
       "stats": [
         "+0.20 move speed",
         "-22% aiming time",
@@ -16613,7 +16613,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is a legendary sniper, skilled in the economy and accuracy of long range, small arms combat.  Other colonists avoid eye contact and whisper in corners about how dangerous he is and that suits him just fine.",
+      "description": "Vercik is a legendary sniper, skilled in the economy and accuracy of long range, small arms combat.  Other colonists avoid eye contact and whisper in corners about how dangerous he is and that suits him just fine.",
       "stats": [
         "+0.25 move speed",
         "-30% aiming time",
@@ -16873,7 +16873,7 @@
       "degree": 3
     },
     {
-      "description": "Timmy is training to become a master of the blade and excels at fighting in melee combat.",
+      "description": "Vercik is training to become a master of the blade and excels at fighting in melee combat.",
       "stats": [
         "+0.15 move speed",
         "-3% mental break threshold",
@@ -17131,7 +17131,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has trained to become a sword master, dangerously skilled in melee combat.",
+      "description": "Vercik has trained to become a sword master, dangerously skilled in melee combat.",
       "stats": [
         "+0.20 move speed",
         "-5% mental break threshold",
@@ -17389,7 +17389,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy is a blade dancer, highly skilled in melee combat.  Watching him fight is like watching a dance, every action precise and flawless as it flows from one form into another.",
+      "description": "Vercik is a blade dancer, highly skilled in melee combat.  Watching him fight is like watching a dance, every action precise and flawless as it flows from one form into another.",
       "stats": [
         "+0.30 move speed",
         "-8% mental break threshold",
@@ -17649,7 +17649,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy has become a legend, his skill in melee combat is is known across the world. his skill in combat makes it look as if each movement, each strike, is merely a stitch in a tapestry that depicts his victory.",
+      "description": "Vercik has become a legend, his skill in melee combat is is known across the world. his skill in combat makes it look as if each movement, each strike, is merely a stitch in a tapestry that depicts his victory.",
       "stats": [
         "+0.40 move speed",
         "-10% mental break threshold",
@@ -17909,7 +17909,7 @@
       "degree": 3
     },
     {
-      "description": "Timmy is a master of disguise and imitation; able to manipulate and capture the muscle and mental actions of another and release it as their own.",
+      "description": "Vercik is a master of disguise and imitation; able to manipulate and capture the muscle and mental actions of another and release it as their own.",
       "stats": [
         "+0.15 move speed",
         "+10% global work speed",
@@ -18181,7 +18181,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a Psionic - able to manifest mental willpower into raw energy without the use of a psychic amplifier. he is able to project psionic energy but finds it easier and more efficient to apply it as an extension of his body. For this reason, he prefers to be free of encumbering weapons when manifesting psionic energy.\n\nTimmy has become less social since developing psionic powers, preferring to be unhindered by other pawns.\n\n*The regeneration rate of psionic energy is based on psychic sensitivity - reducing sensitivity to 0 will prevent psionic energy from regenerating.",
+      "description": "Vercik is a Psionic - able to manifest mental willpower into raw energy without the use of a psychic amplifier. he is able to project psionic energy but finds it easier and more efficient to apply it as an extension of his body. For this reason, he prefers to be free of encumbering weapons when manifesting psionic energy.\n\nTimmy has become less social since developing psionic powers, preferring to be unhindered by other pawns.\n\n*The regeneration rate of psionic energy is based on psychic sensitivity - reducing sensitivity to 0 will prevent psionic energy from regenerating.",
       "stats": [
         "-25.00% social impact",
         "-20.00% negotiation ability",
@@ -18449,7 +18449,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a Death Knight - harbinger of doom and a representative of the ever approaching inevitability of death and decay. his solemn attitude makes most pawns uneasy and even fewer approve of his methods.",
+      "description": "Vercik is a Death Knight - harbinger of doom and a representative of the ever approaching inevitability of death and decay. his solemn attitude makes most pawns uneasy and even fewer approve of his methods.",
       "stats": [
         "-25.00% social impact",
         "-25.00% negotiation ability",
@@ -18711,7 +18711,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a Monk, dedicated to mastering Chi - the energy that connects all life in the universe. he harnesses Chi to create magical effects and exceed his physical capabilities. Timmy is also able to disrupt the Chi in others, affecting their command over spells and abilities.",
+      "description": "Vercik is a Monk, dedicated to mastering Chi - the energy that connects all life in the universe. he harnesses Chi to create magical effects and exceed his physical capabilities. Vercik is also able to disrupt the Chi in others, affecting their command over spells and abilities.",
       "stats": [
         "+5.0 melee dodge chance",
         "+5.0 melee hit chance",
@@ -18979,7 +18979,7 @@
       "degree": 0
     },
     {
-      "description": "As a Commander, Timmy exhibits a charismatic personality and stalwart presence that makes other pawns want to follow his lead. Commander's utilize the weight of their presence to inspire nearby pawns, and when that's not enough, they can issue orders that drive their followers to victory. Because Timmy is used to everyone doing his bidding, he considers menial tasks beneath his status, and is generally a lackluster worker.",
+      "description": "As a Commander, Vercik exhibits a charismatic personality and stalwart presence that makes other pawns want to follow his lead. Commander's utilize the weight of their presence to inspire nearby pawns, and when that's not enough, they can issue orders that drive their followers to victory. Because Vercik is used to everyone doing his bidding, he considers menial tasks beneath his status, and is generally a lackluster worker.",
       "stats": [
         "+40.00% social impact",
         "+30.00% negotiation ability",
@@ -19241,7 +19241,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a highly trained Soldier, specializing in pistol, shotgun, or rifle weapons. his weapon specialization is augmented by a standard set of combat training. Super Soldiers are trained to be aggressive and consider violence the natural solution to any argument.",
+      "description": "Vercik is a highly trained Soldier, specializing in pistol, shotgun, or rifle weapons. his weapon specialization is augmented by a standard set of combat training. Super Soldiers are trained to be aggressive and consider violence the natural solution to any argument.",
       "stats": [
         "+5% immunity gain speed",
         "+0.10 move speed",
@@ -19511,7 +19511,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a Red Mage, a flourishing spellblade who weaves through combat with deadly flair.",
+      "description": "Vercik is a Red Mage, a flourishing spellblade who weaves through combat with deadly flair.",
       "stats": [
         "+0.25 move speed",
         "+10.0 melee hit chance",
@@ -20047,7 +20047,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Ninja, a stealthy and agile fighter with a few magical tricks up their sleeves. They excel in bringing down enemies before they even know what hit them.",
+      "description": "Vercik is a Ninja, a stealthy and agile fighter with a few magical tricks up their sleeves. They excel in bringing down enemies before they even know what hit them.",
       "stats": [
         "+0.35 move speed",
         "-8% mental break threshold",
@@ -20575,7 +20575,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is an Elemental Gunner, a magically-gifted pawn capable of imbuing their ammunition with magical power. Their magically-heightened awareness allows them to shoot at frightening speeds. They specialize in laying down sustained suppressive fire.",
+      "description": "Vercik is an Elemental Gunner, a magically-gifted pawn capable of imbuing their ammunition with magical power. Their magically-heightened awareness allows them to shoot at frightening speeds. They specialize in laying down sustained suppressive fire.",
       "stats": [
         "-30% aiming time",
         "-15% pain shock threshold"
@@ -21097,7 +21097,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Bombardier, a fighter specializing in long-range explosive weaponry. They are experts at siege warfare, and can fire explosives over walls from behind cover.",
+      "description": "Vercik is a Bombardier, a fighter specializing in long-range explosive weaponry. They are experts at siege warfare, and can fire explosives over walls from behind cover.",
       "stats": [
         "+5.0 shooting accuracy"
       ],
@@ -21617,7 +21617,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Railbreaker, a reckless melee brawler equipped with extremely dangerous augments that allow them to create explosions at will, which they fire at point-blank range. They are unmatched in firepower, but their greatest weakness is the recoil from their own moves.",
+      "description": "Vercik is a Railbreaker, a reckless melee brawler equipped with extremely dangerous augments that allow them to create explosions at will, which they fire at point-blank range. They are unmatched in firepower, but their greatest weakness is the recoil from their own moves.",
       "stats": [
         "-0.35 move speed",
         "-10.0 shooting accuracy",
@@ -22145,7 +22145,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Samurai, a wandering swordsman who specializes in Iai.",
+      "description": "Vercik is a Samurai, a wandering swordsman who specializes in Iai.",
       "stats": [
         "-15% research speed",
         "-15% global work speed",
@@ -22675,7 +22675,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Gadgeteer, an eccentric inventor who carries around numerous gadgets and tools to assist them in daily life.",
+      "description": "Vercik is a Gadgeteer, an eccentric inventor who carries around numerous gadgets and tools to assist them in daily life.",
       "stats": [
         "-25.00% social impact",
         "-15% pain shock threshold",
@@ -23207,7 +23207,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Wind Mage, capable of bending the very air itself to their will.",
+      "description": "Vercik is a Wind Mage, capable of bending the very air itself to their will.",
       "stats": [
         "+0.80 move speed",
         "+10.0 melee dodge chance",
@@ -23737,7 +23737,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Medic, a dedicated doctor with an array of powerful utility abilities that they can support their allies with. They are very poor direct combatants, however.",
+      "description": "Vercik is a Medic, a dedicated doctor with an array of powerful utility abilities that they can support their allies with. They are very poor direct combatants, however.",
       "stats": [
         "+4 medical",
         "+0.35 move speed",
@@ -24273,7 +24273,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Chroma Mage, a versatile spellcaster capable of undertaking numerous paths of mastery. Timmy can learn any of several powerful spells, but they will never master them all. Their maximum level is 30.",
+      "description": "Vercik is a Chroma Mage, a versatile spellcaster capable of undertaking numerous paths of mastery. Vercik can learn any of several powerful spells, but they will never master them all. Their maximum level is 30.",
       "stats": [
         "+20% global learning factor",
         "+20% research speed",
@@ -24797,7 +24797,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Harbinger, a mage whose presence always signals death and destruction. They are capable of tapping into dark forces to curse their enemies, corrupting their body and soul. Due to their unique link with their victims, most of their spells do not require line of sight to cast.",
+      "description": "Vercik is a Harbinger, a mage whose presence always signals death and destruction. They are capable of tapping into dark forces to curse their enemies, corrupting their body and soul. Due to their unique link with their victims, most of their spells do not require line of sight to cast.",
       "stats": [
         "-0.25 move speed",
         "-20.00% trade price improvement",
@@ -25325,7 +25325,7 @@
       "degree": 4
     },
     {
-      "description": "No one knows of Timmy's true origins, but in battle they seem more a demon than anything else. They are capable of flying directly into enemy positions unbidden and warping the minds of their enemies, causing discord and destruction.",
+      "description": "No one knows of Vercik's true origins, but in battle they seem more a demon than anything else. They are capable of flying directly into enemy positions unbidden and warping the minds of their enemies, causing discord and destruction.",
       "stats": [
         "+0.25 move speed",
         "+10.0 melee hit chance",
@@ -25853,7 +25853,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Berserker, a rampaging fighter who lives to kill or be killed.",
+      "description": "Vercik is a Berserker, a rampaging fighter who lives to kill or be killed.",
       "stats": [
         "+0.25 move speed",
         "+20.0 melee hit chance",
@@ -26397,7 +26397,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Scion, a melee fighter that channels the aspects of ancient spirits to aid them both in combat and and in daily life.",
+      "description": "Vercik is a Scion, a melee fighter that channels the aspects of ancient spirits to aid them both in combat and and in daily life.",
       "stats": [
         "+0.25 move speed",
         "+5.0 melee dodge chance",
@@ -26925,7 +26925,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Plaguedoctor, a half-crazed medieval physician who delights in poisons and disease. They are capable of performing uniquely terrifying surgical procedures on both allies and enemies.",
+      "description": "Vercik is a Plaguedoctor, a half-crazed medieval physician who delights in poisons and disease. They are capable of performing uniquely terrifying surgical procedures on both allies and enemies.",
       "stats": [
         "+10.0 melee hit chance",
         "-50% medical tend quality",
@@ -27451,7 +27451,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Cleric, a versatile mid-line healer capable of quickly healing and cleansing their allies.",
+      "description": "Vercik is a Cleric, a versatile mid-line healer capable of quickly healing and cleansing their allies.",
       "stats": [
         "+0.25 move speed",
         "-30% aiming time",
@@ -27975,7 +27975,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is an Arbormancer, a mage whose magic power is derived from living plants. They are not necessarily allies of the wood, however. They often earn the ire of Rangers and Druids through their wanton mistreatment of nature.",
+      "description": "Vercik is an Arbormancer, a mage whose magic power is derived from living plants. They are not necessarily allies of the wood, however. They often earn the ire of Rangers and Druids through their wanton mistreatment of nature.",
       "stats": [
         "-20% toxic sensitivity",
         "+40% plant work speed",
@@ -28503,7 +28503,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Chainwarden, a fighter that has mastered the usage of chains as a combat weapon. They excel at controlling enemy movements and dealing with multiple opponents at once.",
+      "description": "Vercik is a Chainwarden, a fighter that has mastered the usage of chains as a combat weapon. They excel at controlling enemy movements and dealing with multiple opponents at once.",
       "stats": [
         "+10.0 melee hit chance",
         "-12% mental break threshold",
@@ -29027,7 +29027,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is an Ambusher, a fighter that lies in cold wait for their enemies with traps and devastating close-range abilities.",
+      "description": "Vercik is an Ambusher, a fighter that lies in cold wait for their enemies with traps and devastating close-range abilities.",
       "stats": [
         "-16% mental break threshold",
         "-15% pain shock threshold",
@@ -29555,7 +29555,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Saboteur, a fighter that specializes in going behind enemy lines and disabling key enemy buildings and defenses.",
+      "description": "Vercik is a Saboteur, a fighter that specializes in going behind enemy lines and disabling key enemy buildings and defenses.",
       "stats": [
         "-12% mental break threshold",
         "-10% pain shock threshold",
@@ -30083,7 +30083,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Keeper, a mage that specializes in base defense.",
+      "description": "Vercik is a Keeper, a mage that specializes in base defense.",
       "stats": [
         "-0.15 move speed",
         "-12.0C Minimum comfortable temperature",
@@ -30615,7 +30615,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Pridestalker, a fighter that combines bow and magic to turn any fight into a deadly hunt.",
+      "description": "Vercik is a Pridestalker, a fighter that combines bow and magic to turn any fight into a deadly hunt.",
       "stats": [
         "+16.0C Maximum comfortable temperature",
         "-16.0C Minimum comfortable temperature",
@@ -31149,7 +31149,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Starseeker, a fledgling mage with incredible potential.",
+      "description": "Vercik is a Starseeker, a fledgling mage with incredible potential.",
       "stats": [
         "-6 animals",
         "-6 artistic",
@@ -31699,7 +31699,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is an Aspirant, a fledgling fighter with incredible potential.",
+      "description": "Vercik is an Aspirant, a fledgling fighter with incredible potential.",
       "stats": [
         "-6 animals",
         "-6 artistic",
@@ -32249,7 +32249,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Hawkeye, a fighter that has dedicated their life to the mastery of the bow.",
+      "description": "Vercik is a Hawkeye, a fighter that has dedicated their life to the mastery of the bow.",
       "stats": [
         "-25% aiming time",
         "+5.0 shooting accuracy"
@@ -32771,7 +32771,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is an Atronach, an anomaly among spellcasters. They are capable of casting some powerful spells, but they are completely out of tune with the flow of magic and do not regenerate mana. They must find their own sources of mana with which to fuel their spells.",
+      "description": "Vercik is an Atronach, an anomaly among spellcasters. They are capable of casting some powerful spells, but they are completely out of tune with the flow of magic and do not regenerate mana. They must find their own sources of mana with which to fuel their spells.",
       "stats": [
         "-100% psychic sensitivity",
         "-18% mental break threshold"
@@ -33297,7 +33297,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a versatile, shotgun-toting combat support, capable of taking out key targets, holding the line, or supporting allies.",
+      "description": "Vercik is a versatile, shotgun-toting combat support, capable of taking out key targets, holding the line, or supporting allies.",
       "stats": [
         "-25% aiming time",
         "-0.30 move speed",
@@ -33831,7 +33831,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Scrapper, a combatant that prefers unarmed brawling. They are unmatched in single combat with their huge array of single-target takedown moves.",
+      "description": "Vercik is a Scrapper, a combatant that prefers unarmed brawling. They are unmatched in single combat with their huge array of single-target takedown moves.",
       "stats": [
         "+0.25 move speed",
         "+100% aiming time",
@@ -34365,7 +34365,7 @@
       "degree": 4
     },
     {
-      "description": "Astrologian, fortune-teller, seer. As an Oracle, Timmy is all of these things, and more. As a mage that draws their power from the stars themselves, they are slow, deliberate spellcasters, but they are able to affect targets from anywhere on the map with their array of supportive spells.",
+      "description": "Astrologian, fortune-teller, seer. As an Oracle, Vercik is all of these things, and more. As a mage that draws their power from the stars themselves, they are slow, deliberate spellcasters, but they are able to affect targets from anywhere on the map with their array of supportive spells.",
       "stats": [
         "-0.25 move speed",
         "+40% aiming time",
@@ -34895,7 +34895,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Mystic, a fighter that utilizes spiritual energy to disable and thwart their foes.",
+      "description": "Vercik is a Mystic, a fighter that utilizes spiritual energy to disable and thwart their foes.",
       "stats": [
         "+0.25 move speed",
         "+5.0 melee hit chance",
@@ -35425,7 +35425,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Spellbreaker, a fighter that excels at countering enemy attacks, and is adept at dealing with enemy fighters and mages.",
+      "description": "Vercik is a Spellbreaker, a fighter that excels at countering enemy attacks, and is adept at dealing with enemy fighters and mages.",
       "stats": [
         "+0.25 move speed",
         "+10.0 melee dodge chance",
@@ -35953,7 +35953,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Duskbringer, a combatant that has mastered the dual destructive forces of light and darkness.",
+      "description": "Vercik is a Duskbringer, a combatant that has mastered the dual destructive forces of light and darkness.",
       "stats": [
         "-8% mental break threshold",
         "+5.0 melee hit chance",
@@ -36477,7 +36477,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a fighter with an incredible affinity for the element of lightning, despite not being a mage. They are capable of executing devastating attacks, but the physical toll of harnessing such power causes them to take more damage than others.",
+      "description": "Vercik is a fighter with an incredible affinity for the element of lightning, despite not being a mage. They are capable of executing devastating attacks, but the physical toll of harnessing such power causes them to take more damage than others.",
       "stats": [
         "+1.00 move speed",
         "+10.0 melee hit chance",
@@ -37007,7 +37007,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a sharpshot mercenary for hire. It's not uncommon to find their ilk in dusty rimworld bars. Their ability to take out key targets from a distance is unparalleled, but life as a contract killer has left them less than willing to perform menial labor and daily tasks. They are capable of utilizing magic to make their bullets even more deadly, but they have no inherent mana regeneration of their own.",
+      "description": "Vercik is a sharpshot mercenary for hire. It's not uncommon to find their ilk in dusty rimworld bars. Their ability to take out key targets from a distance is unparalleled, but life as a contract killer has left them less than willing to perform menial labor and daily tasks. They are capable of utilizing magic to make their bullets even more deadly, but they have no inherent mana regeneration of their own.",
       "stats": [
         "+40% aiming time",
         "+10.0 shooting accuracy",
@@ -37535,7 +37535,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Spellthief, a trickster mage capable of easily infiltrating and sabotaging enemies. They can copy abilities from allies and enemies.",
+      "description": "Vercik is a Spellthief, a trickster mage capable of easily infiltrating and sabotaging enemies. They can copy abilities from allies and enemies.",
       "stats": [
         "+0.25 move speed",
         "-15% pain shock threshold",
@@ -38063,7 +38063,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Dragoon, an agile knight that has absorbed the power of ancient dragons into their body, granting them extreme resistance towards heat. They are capable of taking to the skies to outmaneuever and destroy their opponents.",
+      "description": "Vercik is a Dragoon, an agile knight that has absorbed the power of ancient dragons into their body, granting them extreme resistance towards heat. They are capable of taking to the skies to outmaneuever and destroy their opponents.",
       "stats": [
         "+10.0 melee hit chance",
         "+100.0C Maximum comfortable temperature",
@@ -38591,7 +38591,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Black Mage, a specialized combat mage capable of unleashing unending destructive magic on their foes.",
+      "description": "Vercik is a Black Mage, a specialized combat mage capable of unleashing unending destructive magic on their foes.",
       "stats": [
         "+4 intellectual",
         "-35% global work speed",
@@ -39129,7 +39129,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Scholar, a magical strategist capable of protecting their allies from harm. They are very poor direct combatants, but excel at supporting their allies in combat.",
+      "description": "Vercik is a Scholar, a magical strategist capable of protecting their allies from harm. They are very poor direct combatants, but excel at supporting their allies in combat.",
       "stats": [
         "+4 medical",
         "+4 intellectual",
@@ -39661,7 +39661,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Gunbreaker, an unorthodox fighter that prefers to use ranged weaponry in melee combat. They are capable of charging up and unleashing devastating attacks in quick succession on their targets.",
+      "description": "Vercik is a Gunbreaker, an unorthodox fighter that prefers to use ranged weaponry in melee combat. They are capable of charging up and unleashing devastating attacks in quick succession on their targets.",
       "stats": [
         "+10.0 melee hit chance",
         "+10.0 melee dodge chance",
@@ -40189,7 +40189,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Gunner, a fighter that prefers ranged weapons with powerful single-shot capabilities. They are capable of charging up and laying down rapid bursts of suppressive fire.",
+      "description": "Vercik is a Gunner, a fighter that prefers ranged weapons with powerful single-shot capabilities. They are capable of charging up and laying down rapid bursts of suppressive fire.",
       "stats": [
         "-25% aiming time",
         "+10.0 shooting accuracy"
@@ -40711,7 +40711,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Warrior, a melee fighter trained to survive on the front lines of battle.",
+      "description": "Vercik is a Warrior, a melee fighter trained to survive on the front lines of battle.",
       "stats": [
         "+0.25 move speed",
         "+10.0 melee hit chance",
@@ -41249,7 +41249,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Nomad, a resilient and versatile bow-fighter that fights at both melee and range.",
+      "description": "Vercik is a Nomad, a resilient and versatile bow-fighter that fights at both melee and range.",
       "stats": [
         "+10.0 melee hit chance",
         "+10.0 melee dodge chance",
@@ -41777,7 +41777,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Guardian, a stalwart protector that uses blade and magic to defend their allies.",
+      "description": "Vercik is a Guardian, a stalwart protector that uses blade and magic to defend their allies.",
       "stats": [
         "+5.0 melee hit chance",
         "+5.0 melee dodge chance",
@@ -42303,7 +42303,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Holosmith, an ordinary individual except for one thing -- their usage of the miraculous Photon Forge, which allows them to harness the power of light for brief periods of time, allowing them to keep up with other trained fighters.",
+      "description": "Vercik is a Holosmith, an ordinary individual except for one thing -- their usage of the miraculous Photon Forge, which allows them to harness the power of light for brief periods of time, allowing them to keep up with other trained fighters.",
       "stats": [
         "+5.0 melee hit chance",
         "+5.0 melee dodge chance",
@@ -42827,7 +42827,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Troubadour, an archer who supports their allies with arrow and song.",
+      "description": "Vercik is a Troubadour, an archer who supports their allies with arrow and song.",
       "stats": [
         "+0.15 move speed",
         "+25.00% social impact",
@@ -43357,7 +43357,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Gambler, a smooth-talking vagrant with a magical deck of cards. They play out their lives according to fate's whim.",
+      "description": "Vercik is a Gambler, a smooth-talking vagrant with a magical deck of cards. They play out their lives according to fate's whim.",
       "stats": [
         "+25.00% social impact",
         "+25.00% negotiation ability",
@@ -43885,7 +43885,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Chef, a dedicated cook with abilities that can ease the burdens of their allies.",
+      "description": "Vercik is a Chef, a dedicated cook with abilities that can ease the burdens of their allies.",
       "stats": [
         "+4 cooking",
         "+50% butchery speed",
@@ -44411,7 +44411,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Miner, a trained specialist capable of demolishing ore and rock with ease.",
+      "description": "Vercik is a Miner, a trained specialist capable of demolishing ore and rock with ease.",
       "stats": [
         "+4 mining",
         "+50% mining speed",
@@ -44941,7 +44941,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Striker, an unarmed combatant that is an aggressive offshoot of the Monk -- they forsake defense and healing in exchange for a swift and offensive combat style.",
+      "description": "Vercik is a Striker, an unarmed combatant that is an aggressive offshoot of the Monk -- they forsake defense and healing in exchange for a swift and offensive combat style.",
       "stats": [
         "+0.50 move speed",
         "+10.0 melee hit chance",
@@ -45469,7 +45469,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Rune Knight, a specialized combat mage that compresses mana into runes to use at a later time, allowing them to prepare for future encounters. They have access to offensive, defensive, and healing magic.",
+      "description": "Vercik is a Rune Knight, a specialized combat mage that compresses mana into runes to use at a later time, allowing them to prepare for future encounters. They have access to offensive, defensive, and healing magic.",
       "stats": [
         "+5.0 melee hit chance",
         "+5.0 melee dodge chance",
@@ -45993,7 +45993,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Blossom Blader, a graceful bladedancer with close ties to nature. They are capable of rapidly assaulting their targets with debilitating attacks. Their abilities are fueled by herbs gathered over time by interacting with plants.",
+      "description": "Vercik is a Blossom Blader, a graceful bladedancer with close ties to nature. They are capable of rapidly assaulting their targets with debilitating attacks. Their abilities are fueled by herbs gathered over time by interacting with plants.",
       "stats": [
         "+4 plants",
         "+0.25 move speed",
@@ -46525,7 +46525,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Ravenous. No one knows how these disturbing creatures come into existence - freak of nature, biological experimentation, or magical anomaly? The only thing anyone knows for sure is that these creatures must feed, on anything and everything. Despite not being properly trained, they are capable of learning fighter and mage abilities. Perhaps they devoured the knowledge from some unfortunate soul...",
+      "description": "Vercik is a Ravenous. No one knows how these disturbing creatures come into existence - freak of nature, biological experimentation, or magical anomaly? The only thing anyone knows for sure is that these creatures must feed, on anything and everything. Despite not being properly trained, they are capable of learning fighter and mage abilities. Perhaps they devoured the knowledge from some unfortunate soul...",
       "stats": [
         "x20 eating speed"
       ],
@@ -47045,7 +47045,7 @@
       "degree": 4
     },
     {
-      "description": "Some do it for vengeance, others do it for pay. Whatever the reason, Timmy is a Mech Hunter, a fighter that has dedicated their life to eradicating the Mechanoid threat.",
+      "description": "Some do it for vengeance, others do it for pay. Whatever the reason, Vercik is a Mech Hunter, a fighter that has dedicated their life to eradicating the Mechanoid threat.",
       "stats": [
         "-25% aiming time",
         "+5.0 shooting accuracy"
@@ -47567,7 +47567,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Gunslinger, a mobile attacker capable of blanketing the battlefield with suppressive fire.",
+      "description": "Vercik is a Gunslinger, a mobile attacker capable of blanketing the battlefield with suppressive fire.",
       "stats": [
         "-25% aiming time",
         "+0.25 move speed",
@@ -48091,7 +48091,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Shadowbringer, a melee fighter that utilizes the power of darkness to annihilate their foes.",
+      "description": "Vercik is a Shadowbringer, a melee fighter that utilizes the power of darkness to annihilate their foes.",
       "stats": [
         "+5.0 melee hit chance",
         "-15.0 shooting accuracy",
@@ -48621,7 +48621,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Warden, an offshoot of the Geomancer that has received training as a battlemage and prefers to be in the thick of combat.",
+      "description": "Vercik is a Warden, an offshoot of the Geomancer that has received training as a battlemage and prefers to be in the thick of combat.",
       "stats": [
         "+5.0 melee hit chance",
         "-0.25 move speed",
@@ -49147,7 +49147,7 @@
       "degree": 4
     },
     {
-      "description": "No one belongs to a Rimworld more than Timmy - no stranger to pollution, poison, drugs, or violence, they have augmented their body to allow them to process dangerous drugs in combat, allowing them to use their very body as a poisonous weapon.",
+      "description": "No one belongs to a Rimworld more than Vercik - no stranger to pollution, poison, drugs, or violence, they have augmented their body to allow them to process dangerous drugs in combat, allowing them to use their very body as a poisonous weapon.",
       "stats": [
         "-50% toxic sensitivity",
         "+50% pain shock threshold",
@@ -49675,7 +49675,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy's reflexes are truly out of this world. They can parry melee attacks without any training and with luck even bullets.",
+      "description": "Vercik's reflexes are truly out of this world. They can parry melee attacks without any training and with luck even bullets.",
       "stats": [
         "+10.0 melee parry melee chance",
         "+5.0 melee parry projectile chance",
@@ -49709,7 +49709,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy's reflexes transcend common sense. They can easily parry melee attacks without any training and with a bit of luck even bullets.",
+      "description": "Vercik's reflexes transcend common sense. They can easily parry melee attacks without any training and with a bit of luck even bullets.",
       "stats": [
         "+20.0 melee parry melee chance",
         "+10.0 melee parry projectile chance",
