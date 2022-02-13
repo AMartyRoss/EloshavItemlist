@@ -36,6 +36,7 @@ store:
     usage: true
   items:
     category: true
+    stats: true
     weight: true
     karma: true
     quantity: true
