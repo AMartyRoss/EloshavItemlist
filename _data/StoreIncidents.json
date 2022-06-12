@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 8000,
+		"price": 18000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 42600,
+		"price": 60600,
 		"karmatype": "Bad"
 	},
 	{
@@ -57,7 +57,7 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 1500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -67,7 +67,7 @@
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 6000,
 		"karmatype": "Bad"
 	},
 	{
@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -127,7 +127,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 300,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -257,12 +257,12 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "disease",
-		"price": 10000,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -412,12 +412,12 @@
 	},
 	{
 		"abr": "randomchildhood",
-		"price": 3000,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomadulthood",
-		"price": 3000,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -527,7 +527,7 @@
 	},
 	{
 		"abr": "globalwarming",
-		"price": 25000,
+		"price": 30000,
 		"karmatype": "Doom"
 	},
 	{
@@ -547,12 +547,12 @@
 	},
 	{
 		"abr": "hailstorm",
-		"price": 2400,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "veemeteoriteshower",
-		"price": 1500,
+		"price": 3000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -562,7 +562,7 @@
 	},
 	{
 		"abr": "spacebattle",
-		"price": 1500,
+		"price": 2000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -592,7 +592,7 @@
 	},
 	{
 		"abr": "drought",
-		"price": 10000,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
